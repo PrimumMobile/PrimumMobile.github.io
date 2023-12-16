@@ -26,8 +26,8 @@ tagline: 隐私计算小白   # it will display as the sub-title
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+# fill in the protocol & hostname for your site, e.g., 'https://PrimumMobile.github.io'
+url: 'https://PrimumMobile.github.io'
 
 github:
   username: PrimumMobile             # change to your github username
