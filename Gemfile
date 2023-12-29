@@ -28,4 +28,3 @@ if RUBY_PLATFORM =~ /linux-musl/
 end
 
 gem "jemoji"
-gem install bundler -v 1.16.1
