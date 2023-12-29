@@ -197,3 +197,5 @@ jekyll-archives:
     category: /categories/:name/
 plugins:
   - jemoji
+emoji:
+  src: "/assets/img/emoji"
